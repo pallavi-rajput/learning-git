@@ -1,0 +1,7 @@
+Commands to be used often with git:
+
+git add <file>
+git commit -m <commit message>
+git push <remote> <branch>
+
+git
